@@ -3,6 +3,6 @@ Developed a Bank management system project using c
 
 
 #file handling
-# scalability
-# redundance
+#scalability
+#redundance
 #ansi colours
